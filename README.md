@@ -1,4 +1,4 @@
-# Homepage App #
+# Browser Homepage App #
 Welcome to the Homepage App! This app aims to renew your browser homepage experience by offering quick, functional snippets of information paired with a clean UI.
 
 # Features #
@@ -11,7 +11,7 @@ Welcome to the Homepage App! This app aims to renew your browser homepage experi
 * weatherAPI
 
 # Getting Started #
-To get started with the Homepage App, simply set it as your default homepage and start enjoying a more user-friendly and information-filled browsing experience.
+To get started with the Browser Homepage App, simply set it as your default homepage and start enjoying a more user-friendly and information-filled browsing experience.
 ### Live URL COMING SOON ###
 
-We hope you enjoy using the Homepage App!
+I hope you enjoy using the Browser Homepage App!
