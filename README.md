@@ -12,6 +12,6 @@ Welcome to the Homepage App! This app aims to renew your browser homepage experi
 
 # Getting Started #
 To get started with the Homepage App, simply set it as your default homepage and start enjoying a more user-friendly and information-filled browsing experience.
-## Live URL COMING SOON ##
+### Live URL COMING SOON ###
 
 We hope you enjoy using the Homepage App!
