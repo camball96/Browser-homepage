@@ -1,0 +1,11 @@
+.favourite-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-name {
+  font-size: 30px;
+  color: grey;
+}
