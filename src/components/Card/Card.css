@@ -6,11 +6,21 @@
   border-radius: 5px;
 
 }
-.shortcuts {
+.shortcuts, .add-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   background-color: rgb(0,0,0); /* Fallback color */
   background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
   margin-bottom: 3%;
   padding: 5%;
   border-radius: 5px;
   margin: 4%;
+  cursor: default;
+}
+
+.add-cards:hover {
+  background-color: rgba(0,0,0, 0.9); /* Black w/opacity/see-through */
+  cursor: pointer;
 }

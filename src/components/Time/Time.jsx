@@ -6,12 +6,7 @@ function Time() {
 
   useEffect(() => {
     setInterval(() => {
-      let newTime = new Date().toLocaleTimeString("en-AU", {
-        hour: "numeric",
-        minute: "numeric",
-        second: "numeric",
-        hour12: true,
-      });
+      let newTime = new Date().toLocaleTimeString("en-AU", {});
       setTime(newTime);
     }, 1000);
   }, []);
