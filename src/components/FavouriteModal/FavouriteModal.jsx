@@ -7,10 +7,12 @@ function FavouriteModal({ closeModal }) {
     <div className="modal-outer">
       <div className="modal-container">
         <div className="close-btn">
-          <button onClick={() => closeModal(false)}>X</button>
+          <button className="exit" onClick={() => closeModal(false)}>
+            X
+          </button>
         </div>
         <div className="modal-content">
-          <h1>Modal</h1>
+          <h1 className="modal-heading">Modal</h1>
           <FavouriteForm />
         </div>
       </div>

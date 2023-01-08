@@ -2,6 +2,10 @@ import React from "react";
 import "./FavouriteForm.css";
 
 function FavouriteForm() {
+  // const submitted = () => {
+
+  // }
+
   return (
     <form className="form-container">
       <label htmlFor="">Name</label>
