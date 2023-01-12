@@ -1,15 +1,17 @@
-# Finances Tracker #
-A web app that allows users to track their finances and view a visual graph of their spending by year. Built with React.
+# Browser Homepage App #
+Welcome to the Homepage App! This app aims to renew your browser homepage experience by offering quick, functional snippets of information paired with a clean UI.
 
 # Features #
-* Add purchases to the expenses list, which displays the date, name, and amount spent for each purchase
-* Filter expenses by year to view a graph showing the monthly breakdown of spending for that year
+* See key data such as the weather, current time, and your browser favorites
+* Easily set or remove your favorites to customize the app to your liking
+* Set the Homepage App as your default homepage for a more user-friendly and information-filled browsing experience
 
-# Installation #
-To run this app locally, follow these steps:
-* Clone this repository to your local machine
-* Navigate to the root directory of the cloned repository and run npm install to install the necessary dependencies
-* Run npm start to start the development server and open the app in your default web browser
+# Technologies Used #
+* React
+* weatherAPI
 
-# Contributing #
-If you'd like to contribute to this project, please feel free to submit a pull request. All contributions are welcome!
+# Getting Started #
+To get started with the Browser Homepage App, simply set it as your default homepage and start enjoying a more user-friendly and information-filled browsing experience.
+### Live URL COMING SOON ###
+
+I hope you enjoy using the Browser Homepage App!
