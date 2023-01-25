@@ -29,6 +29,7 @@ function FavouriteForm(props) {
 
     //Stores that favourite data array into a function from the parent component to pass that data up
     props.onSaveFormData(favouriteData);
+    props.exit();
   };
 
   return (

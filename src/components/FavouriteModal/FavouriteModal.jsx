@@ -22,7 +22,7 @@ function FavouriteModal(props) {
         </div>
         <div className="modal-content">
           <h1 className="modal-heading">Modal</h1>
-          <FavouriteForm onSaveFormData={formData1} />
+          <FavouriteForm onSaveFormData={formData1} exit={props.closeModal} />
         </div>
       </div>
     </div>

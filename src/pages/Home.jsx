@@ -15,13 +15,13 @@ const shortcutData = [
   },
   {
     id: 2,
-    site: "Google",
+    site: "Udemy",
     link: "https://www.google.com",
     class: "shortcuts",
   },
   {
     id: 3,
-    site: "Google",
+    site: "Gmail",
     link: "https://www.google.com",
     class: "shortcuts",
   },
