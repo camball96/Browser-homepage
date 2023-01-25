@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Time.css";
 
 function Time() {
-  const [time, setTime] = useState();
+  const [time, setTime] = useState(new Date().toLocaleTimeString("en-AU", {}));
 
   useEffect(() => {
     setInterval(() => {

@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-import sunny from "../../assets/sunny.png";
-
 function WeatherCard() {
   let iconURL = "https://openweathermap.org/img/wn/{}.png";
   const [weather, setWeather] = useState();
